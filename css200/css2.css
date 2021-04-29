@@ -8,6 +8,7 @@ body{
 }
 
 header{
+    padding:0px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
