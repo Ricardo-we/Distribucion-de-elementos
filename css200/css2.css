@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    height: 1080px;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #E8E8E8;
+    height: 50px; 
+}
+
+nav{
+    margin-left: 700px;
+    margin-top: 10px;
+    margin-right: 0px;
+    width: 700px;
+}
+
+.caja{
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 0px;
+    margin-top: 5px;
+    border: 1px solid black;
+}
+
+.navBox{
+    border: 1px solid black;
+    display: inline-block;
+    background-color: #9B7B99;
+    width: 80px;
+    height: 30px;
+    margin: 0px 10px;
+}
+
+section{
+    background-color: #DFDFDF;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+}
+
+
+.mainTitle{
+  
+    margin: 0px auto;  
+    margin-top: 50px;
+    text-align: center;
+    display: inline-block;
+    background-color: #9B7B99;
+    width: 400px;
+    height: 50px;
+    
+}
+
+.subTitle{
+    margin:0px auto;
+    margin-top: 20px;
+    text-align: center;
+    display: inline-block;
+    background-color: #9B7B99;
+    width: 600px;
+    height: 50px;
+    
+}
+
+.btn{
+    margin:0px  auto;
+    margin-top: 20px;
+    display: inline-block;
+    background-color: #4A4A4A;
+    border-radius: 100px;
+    width: 100px;
+    height: 50px;
+}
+
+.container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.cajitas{
+    margin-top: 150px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
