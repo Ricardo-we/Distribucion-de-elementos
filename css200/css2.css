@@ -9,9 +9,7 @@ body{
 
 header{
     padding:0px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+
     background-color: #E8E8E8;
     height: 50px; 
 }
